@@ -60,7 +60,7 @@
 ## 🌐 Social Medias
 
 <p align="left">
-  <a href="www.linkedin.com/in/mikael-teixeira-b143802b7" target="_blank">
+  <a href="https://www.linkedin.com/in/mikael-teixeira-b143802b7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:mikaanastacioteixeira@gmail.com" target="_blank">
