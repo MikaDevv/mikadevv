@@ -2,8 +2,8 @@
 
 **`Backend Developer`**
 
-💻 Full Stack Developer focused on **backend development with Java and Quarkus**.  
-🔧 Currently **working at iBASi Sistemas**, contributing to web systems, RESTful APIs, monitoring dashboards, and building chatbot and automation solutions integrated with external APIs.  
+💻 Full Stack Developer focused on **backend development with Java**.  
+
 🚀 Interested in **scalable applications, data-driven solutions, and clean code practices.**
 
 ---
