@@ -3,7 +3,6 @@
 **`Backend Developer`**
 
 💻 Full Stack Developer focused on **backend development with Java**.  
-
 🚀 Interested in **scalable applications, data-driven solutions, and clean code practices.**
 
 ---
